@@ -45,3 +45,7 @@ Upload Task: I uploaded a sample text file to the bucket.
 Delete Task (The Fail Test): I attempted to delete the file I just uploaded. As expected, the system returned an "Access Denied" error.
 Conclusion of the Deliverable
 The project concluded with a fully functional S3 bucket and a verified IAM user. This exercise demonstrated the importance of cloud security; even if a user has access to a service, their actions can be strictly governed to prevent unauthorized deletions or data breaches. This "ReadOnly" with "Create" privilege configuration ensures that an intern or junior developer can contribute to the infrastructure without the risk of accidentally destroying existing data.
+
+**OUTPUT**
+
+https://github.com/Parth-007-git/Cloud-storage-setup/issues/1
