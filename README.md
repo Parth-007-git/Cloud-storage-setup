@@ -12,8 +12,6 @@
 
 **MENTOR**:NEELA SANTHOSH
 
-# DISCRIPTION OF TASK LIKE HOW YOU PERFORMED AND WHAT YOU HAVE DONE AND PASTE PICTURES OF OUTPUT 
-
 **DISCRIPTION**: During my cloud computing internship, I successfully completed a core project focused on Cloud Storage Setup. The objective was to design, deploy, and secure a cloud storage environment using Amazon Web Services (AWS). This task involved not just the creation of a storage container (an S3 Bucket) but also the implementation of the Principle of Least Privilege through AWS Identity and Access Management (IAM).
 Below is the detailed, step-by-step breakdown of how I executed this task, from initial setup to permission validation.
 Phase 1: Setting Up the Amazon S3 Bucket.
